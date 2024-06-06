@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>祝福高考考生</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <h1>祝福高考考生</h1>
+    <p>亲爱的考生们，</p>
+    <p>在这个关键的时刻，我们祝愿你们能够放松心态，发挥出最好的水平。</p>
+    <p>愿你们在考试中取得优异的成绩，实现自己的梦想！</p>
+    <p>加油！你们是最棒的！</p>
+</body>
+</html>
